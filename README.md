@@ -24,7 +24,6 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 The command sudo setoolkit in the prompt gives menu with set prompt:
 ## OUTPUT
 
-<img width="583" height="960" alt="Screenshot From 2026-02-13 08-47-11" src="https://github.com/user-attachments/assets/4519e437-4101-4f66-80e2-d07b2f5d819a" />
 
 The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
 
@@ -58,18 +57,20 @@ It shows the following screen in which the option Google can be selected:
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
 
 ## OUTPUT
-<img width="1085" height="186" alt="Screenshot From 2026-02-13 08-59-28" src="https://github.com/user-attachments/assets/a2dff503-e164-42df-a422-e50f45f7081f" />
+<img width="1443" height="157" alt="Screenshot 2026-02-14 140126" src="https://github.com/user-attachments/assets/df01c661-35f6-458e-8289-b88823e046ba" />
+
 
 In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address), the fake Google page is displayed. The victim can enter the username and password
 
 ## OUTPUT
-<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/ae5a7432-0333-442f-aba5-3bc67e7d3414" />
+<img width="1571" height="755" alt="Screenshot 2026-02-14 134947" src="https://github.com/user-attachments/assets/1852e772-7b13-41cf-8423-bac8991e96e3" />
+
 
 SET logs the information regarding the Google credentials:
 
 ## OUTPUT
 
-<img width="1528" height="373" alt="Screenshot From 2026-02-13 08-50-23" src="https://github.com/user-attachments/assets/7a47f3cf-be7b-4676-b01b-3a872159b053" />
+<img width="1489" height="421" alt="Screenshot 2026-02-14 140110" src="https://github.com/user-attachments/assets/38ddf934-5091-42d3-9f49-021905f7e2d4" />
 
 SET logs the information in the xml file under /root/.set directory:
 
